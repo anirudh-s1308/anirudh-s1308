@@ -30,19 +30,3 @@ MySQL | MongoDB | Postgre
 # About Me
 
 I aspire to be a Machine Learning Engineer as my skill set revolves around Python, ML, deep learning, and web development using frameworks like Django and Flask. I also have experience with C++, Java, and JavaScript, allowing me to work across diverse development environments.
-
-# Projects
----
-
-## Character Recognition System
-
-**Tech:** Python, TensorFlow, OpenCV, Django
-[Source Code](#)
-
----
-
-## Diabetic Retinopathy Detection
-
-**Tech:** Python, Flask, Deep Learning
-[Source Code](#)
----
