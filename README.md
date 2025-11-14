@@ -1,16 +1,48 @@
-## Hi there 👋
+<b><h1>Hi, I'm Anirudh S</h1></b>
 
-<!--
-**anirudh-s1308/anirudh-s1308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://img.shields.io/badge/GitHub-anirudh--s1308-black)](https://github.com/anirudh-s1308)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anirudh--s130801-blue)](https://linkedin.com/in/anirudh-s130801)
+[![Email](https://img.shields.io/badge/Email-anirudhsuniltiwari%40gmail.com-red)](mailto:anirudhsuniltiwari@gmail.com)
+---
+<p>I build applications and machine learning models to explore core ML concepts, neural network architectures, and real-world problem solving.
+My work focuses on understanding how models learn, optimizing their performance, and deploying them as practical applications.
+</p>
+<br>
+<b><h3>What I use -</h3></b>
 
-Here are some ideas to get you started:
+Languages : 
+Python | C++ | Java | SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks : 
+TensorFlow | Keras | Django | Flask
+
+Libraries : 
+NumPy | Pandas | Scikit-learn | OpenCV 
+
+Tools : 
+Git | 
+
+Databases : 
+MySQL | MongoDB | Postgre
+
+---
+
+# About Me
+
+I aspire to be a Machine Learning Engineer as my skill set revolves around Python, ML, deep learning, and web development using frameworks like Django and Flask. I also have experience with C++, Java, and JavaScript, allowing me to work across diverse development environments.
+
+# Projects
+---
+
+## Character Recognition System
+
+**Tech:** Python, TensorFlow, OpenCV, Django
+[Source Code](#)
+
+---
+
+## Diabetic Retinopathy Detection
+
+**Tech:** Python, Flask, Deep Learning
+[Source Code](#)
+---
