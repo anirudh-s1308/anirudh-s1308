@@ -11,10 +11,10 @@ My work focuses on understanding how models learn, optimizing their performance,
 <b><h3>What I use -</h3></b>
 
 Languages : 
-Python | C++ | Java | SQL
+Python | C++ | SQL
 
 Frameworks : 
-TensorFlow | Keras | Django | Flask
+TensorFlow | Keras | Django | FastAPI
 
 Libraries : 
 NumPy | Pandas | Scikit-learn | OpenCV 
