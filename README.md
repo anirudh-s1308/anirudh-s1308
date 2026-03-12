@@ -20,7 +20,7 @@ Libraries :
 NumPy | Pandas | Scikit-learn | OpenCV 
 
 Tools : 
-Git | 
+Git | Docker
 
 Databases : 
 MySQL | MongoDB | Postgre
