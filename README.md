@@ -1,32 +1,50 @@
-<b><h1>Hi, I'm Anirudh S</h1></b>
+# Hi there, I'm a Software Engineer focusing on Backend & AI/ML Technologies 👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-anirudh--s1308-black)](https://github.com/anirudh-s1308)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anirudh--s130801-blue)](https://linkedin.com/in/anirudh-s130801)
-[![Email](https://img.shields.io/badge/Email-anirudhsuniltiwari%40gmail.com-red)](mailto:anirudhsuniltiwari@gmail.com)
----
-<p>I build applications and machine learning models to explore core ML concepts, neural network architectures, and real-world problem solving.
-My work focuses on understanding how models learn, optimizing their performance, and deploying them as practical applications.
-</p>
-<br>
-<b><h3>What I use -</h3></b>
-
-Languages : 
-Python | C++ | SQL
-
-Frameworks : 
-TensorFlow | Keras | Django | FastAPI
-
-Libraries : 
-NumPy | Pandas | Scikit-learn | OpenCV 
-
-Tools : 
-Git | Docker
-
-Databases : 
-MySQL | MongoDB | Postgre
+I am a Software Engineer specializing in backend development and AI/ML systems. My work focuses on building scalable applications, implementing core machine learning concepts, and optimizing neural network architectures for real-world production. I bridge the gap between intelligent models and robust backend infrastructure.
 
 ---
 
-# About Me
+## 🛠️ Tech Stack & Ecosystem
 
-I aspire to be a Machine Learning Engineer as my skill set revolves around Python, ML, deep learning, and web development using frameworks like Django and Flask. I also have experience with C++, Java, and JavaScript, allowing me to work across diverse development environments.
+### **Languages**
+
+* **Core:** Python | C++ | SQL
+* **Familiar:** Java | JavaScript
+
+### **AI / ML & Orchestration**
+
+* **Deep Learning & Frameworks:** TensorFlow | LangChain
+* **Data Science & Traditional ML:** NumPy | Pandas | Scikit-learn
+* **Computer Vision:** OpenCV
+
+### **Backend & APIs**
+
+* **Web Frameworks:** FastAPI | Django | Flask
+
+### **Infrastructure, Databases & Tools**
+
+* **Databases:** PostgreSQL | MySQL | MongoDB
+* **DevOps & Version Control:** Docker | Git
+
+---
+
+## 🚀 Core Focus Areas
+
+* **Machine Learning Systems:** Designing, training, and optimizing deep learning architectures and traditional ML models to solve complex, data-driven problems.
+* **Production Backend Engineering:** Architecting clean, high-performance APIs and web applications using FastAPI and Django that serve as robust delivery mechanisms for intelligent systems.
+* **LLM Application Development:** Utilizing LangChain to orchestrate and build scalable applications powered by Large Language Models.
+* **Cross-Functional Development:** Leveraging a strong foundation in C++ and computer science principles to write efficient, low-level optimized code when performance demands it.
+
+---
+
+## 📈 Featured Repositories
+
+*📂 [Check out my repositories to see these tools in action, ranging from neural network implementations to production-ready backend services.]*
+
+---
+
+## 📫 Let's Connect!
+
+* **LinkedIn:** [Your Name](https://www.google.com/search?q=https://linkedin.com/in/yourusername)
+* **Email:** [your.email@example.com]
+* **Portfolio / Website:** [yourportfolio.com]
