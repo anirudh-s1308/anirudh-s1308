@@ -45,6 +45,6 @@ I am a Software Engineer specializing in backend development and AI/ML systems. 
 
 ## 📫 Let's Connect!
 
-* **LinkedIn:** [Your Name](https://www.google.com/search?q=https://linkedin.com/in/yourusername)
-* **Email:** [your.email@example.com]
+* **LinkedIn:** [Anirudh S](https://www.google.com/search?q=https://linkedin.com/in/anirudh-s130801)
+* **Email:** [anirudhsuniltiwari@gmail.com]
 * **Portfolio / Website:** [yourportfolio.com]
