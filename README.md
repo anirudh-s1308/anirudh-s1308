@@ -1,9 +1,3 @@
-Here is a refined, highly polished version of your GitHub README.
-
-It streamlines the text for better readability, sharpens your value proposition, cleans up the tech stack layout for quick visual scanning, and adds placeholder badges for a sleek, modern developer profile aesthetic.
-
----
-
 # Hi there, I'm Anirudh S 👋
 
 ### **Backend & AI/ML Software Engineer**
