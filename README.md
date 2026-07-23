@@ -10,9 +10,7 @@ I build scalable backend infrastructure and production-grade AI/ML systems. My f
 
 | Category | Technologies |
 | --- | --- |
-| **Languages** | **Core:** Python, C++, SQL <br>
-
-<br> **Familiar:** Java, JavaScript |
+| **Languages** | **Core:** Python, C++, SQL |
 | **AI / ML & Orchestration** | TensorFlow, LangChain, NumPy, Pandas, Scikit-learn, OpenCV |
 | **Backend & APIs** | FastAPI, Django, Flask, RESTful APIs |
 | **Databases & Storage** | PostgreSQL, MySQL, MongoDB |
