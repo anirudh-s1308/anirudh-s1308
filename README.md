@@ -25,5 +25,6 @@ on the intersection of backend engineering and applied AI/ML.
 in-progress AI projects.
 
 📫 Let's Connect
-LinkedIn: [your actual linkedin.com/in/anirudh-s130801]
-Email: anirudhsuniltiwari@gmail.com
+LinkedIn: [linkedin.com/in/anirudh-s130801]
+Email: [anirudhsuniltiwari@gmail.com]
+Portfolio: []
