@@ -1,35 +1,27 @@
-# Anirudh S
+Hi, I'm Anirudh S 👋
 
-AI & Backend Engineer  — building backend APIs and computer vision / NLP model-serving pipelines, currently expanding into LLM application development (RAG, agents).
+I'm an AI & Backend Engineer focused on the intersection of scalable backend infrastructure and applied machine learning. I build resilient APIs and model-serving pipelines, and I'm actively expanding my work into intelligent LLM applications.
 
-My focus sits at the intersection of backend engineering and applied AI/ML.
+**My Tech Stack**
 
-<br>
+| Category | Technologies |
+| --- | --- |
+| **Languages** | Python, C++, SQL |
+| **AI & Machine Learning** | PyTorch, TensorFlow, Scikit-learn, OpenCV |
+| **Backend & APIs** | FastAPI, Django, REST Architecture |
+| **Databases** | MySQL, MongoDB |
+| **DevOps & Tools** | Docker, Git |
 
-## Tech Stack
+**Current Focus Areas**
 
-**Languages** — Python, C++, SQL
+* **Model Serving:** Architecting and deploying Computer Vision and NLP models efficiently via FastAPI.
+* **Backend Infrastructure:** Designing robust APIs with integrated rate limiting, data integrity checks, and containerized deployments.
+* **LLM Ecosystems:** Building hands-on projects utilizing Retrieval-Augmented Generation (RAG) pipelines and tool-calling AI agents.
 
-**AI / ML** — PyTorch, TensorFlow, Scikit-learn, OpenCV
+**Currently Learning**
 
-**Backend & APIs** — FastAPI, Django, REST APIs
-
-**Databases** — MySQL, MongoDB
-
-**DevOps** — Docker, Git
-
-**Currently learning** — LangChain, RAG, vector databases (pgvector / Qdrant)
-
-<br>
-
-## Focus Areas
-
-- Building and serving computer vision / NLP models via FastAPI
-- Backend API design, rate limiting, and containerized deployment
-- Learning LLM application patterns (RAG, tool-calling agents) through hands-on projects
-
-<br>
-
+* Orchestrating complex LLM workflows with LangChain.
+* Implementing high-performance vector search using pgvector and Qdrant.
 ## Connect
 
 - LinkedIn — [linkedin.com/in/anirudh-s130801](https://linkedin.com/in/anirudh-s130801)
